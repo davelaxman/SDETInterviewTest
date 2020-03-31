@@ -1,0 +1,7 @@
+/.idea/*
+/target/*
+/test-output/testng-results.xml
+/.settings/*
+.classpath
+.project
+SDET-InterviewTest.iml
